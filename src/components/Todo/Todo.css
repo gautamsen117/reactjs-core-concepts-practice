@@ -1,0 +1,8 @@
+.todo {
+    background-color: antiquewhite;
+    border: 2px solid tomato;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
